@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/hbelcher/svn/bctdev/cosmos/procedures/XB1/FSW_UTILS/GENERIC_FSW_TESTS/ANALOGS_CCB'
+let g:netrw_dirhist_8='/mnt/shares/nightly/2022/11/21/20221121_xb1_generic_fau_gen2'
+let g:netrw_dirhist_7='/home/hbelcher/svn/xb1/fsw/app/src/xb1'
+let g:netrw_dirhist_6='/home/hbelcher/svn/xb1/fsw/app/src'
+let g:netrw_dirhist_5='/home/hbelcher/svn/xb1/fsw/app/src/xb1'
+let g:netrw_dirhist_4='/home/hbelcher/svn/xb1/fsw/app/src'
+let g:netrw_dirhist_3='/home/hbelcher/svn/branches/yam4_bctdev/cosmos/config/targets'
+let g:netrw_dirhist_2='/home/hbelcher/svn/branches/yam4_bctdev/cosmos/config/targets/XB1_YAM4'
+let g:netrw_dirhist_1='/home/hbelcher/svn/branches/yam4_bctdev/cosmos/config/targets/XB1_YAM4/cmd_tlm'
+let g:netrw_dirhist_0='/home/hbelcher/svn/branches/yam4_bctdev/cosmos/config/targets/XB1_YAM4'
