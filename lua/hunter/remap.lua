@@ -22,3 +22,4 @@ vim.keymap.set("n", "<leader>r", [[:%s/\<<C-r><C-w>\>/<C-r><C-w>/gI<Left><Left><
 
 -- quickfix lists
 vim.keymap.set('n', '<leader>lc', vim.cmd.ccl)
+
